@@ -1,0 +1,30 @@
+_repo: Der-Dunkelgraf_24782
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bechstein, Ludwig
+    birthdate: 1801
+    deathdate: 1860
+    gutenberg_agent_id: '26033'
+    url: http://www.gutenberg.org/2009/agents/26033
+    wikipedia: http://de.wikipedia.org/wiki/Ludwig_Bechstein
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2008-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24782'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nobility -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcsh 'Germany, Northern -- Fiction'
+- !lcc 'PT'
+title: Der Dunkelgraf
+url: http://www.gutenberg.org/ebooks/24782
